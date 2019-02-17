@@ -3,13 +3,15 @@
 Ini adalah penyingkat url yang dibuat dalam waktu yang cepat, cuma 8 jam saja, jadi kalau ada bug mohon lapor biar langsung kami benerin.
 
 *Fitur Fitur*
-- Penyingkat url dengan kata sandi
-- Costum pentingkat url
-- Admin panel
+- Random hasil
+- Penyingkat url bisa diberi kata sandi
+- Costum penyingkat url
+- Ada Admin panel
 - Kode QR
 
 *Kebutuhan*
-- Apache Webserver (Support Mod Rewrite)
-- Php 5.4+
+- Apache Webserver (Harus Support Mod Rewrite)
+- Php 5.4+ (lebih tinggi lebih bagus)
 
-Copyright (c) 2018 by Fatkul Nur Koirudin & Aminatus Sadiyah
+---
+by Fatkul Nur Koirudin & Aminatus Sadiyah
